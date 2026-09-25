@@ -1,0 +1,29 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: mintcream;
+}
+
+h1,
+h2,
+h3,
+h4{
+    color:#556b2f;
+    font-weight: 700;
+    border-bottom: 2px solid darkgreen
+}
+div,
+ul,
+li{
+    background-color: whitesmoke;
+}
+
+p{
+    background-color: whitesmoke;
+}
+
+button,
+a.return{
+    background-color: #556b2f;
+    font-weight: 700;
+    color: whitesmoke;
+}
